@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: 刕森へようこそ
 ---
-
-b
+Language, math, and whatever else I'm interested in.
